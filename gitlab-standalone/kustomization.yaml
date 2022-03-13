@@ -1,0 +1,8 @@
+namespace: gitlab-server
+
+resources:
+  - gitlab-standalone-namespace.yaml
+  - gitlab-standalone-pvc.yaml
+  - gitlab-standalone-service.yaml
+  - gitlab-standalone-deployment.yaml
+
